@@ -1,4 +1,4 @@
-# tcare-interview-app
+# tcare-app
 Simple app to make restful api calls. Below are instruction for how to stand up the server and send api requests to it. 2 ways to bring up the server are detailed
 1. For a machine with the `Make` command installed
 2. For a machine without the `Make` command installed
